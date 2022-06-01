@@ -1,3 +1,1 @@
 # alx-higher_level_programming
-
-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
